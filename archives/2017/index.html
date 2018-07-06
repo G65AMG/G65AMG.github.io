@@ -155,7 +155,33 @@ var _hmt = _hmt || [];
 	<i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
 &nbsp&nbsp&nbsp&nbsp本站访客数:<span id="busuanzi_value_site_uv"></span>
 	</span>
-	</div></br>
+	</div>
+	<blockquote class="blockquote-center" id="clear">
+<span id="run">网站已棒棒哒运行了<span id="t_d"></span>天<span id="t_h"></span>时<span id="t_m"></span>分<span id="t_s"></span>秒<br><span id="run">今天是第<span id="t_month"></span>个月，第<span id="t_year"></span>年哟 ！</span>
+</span>
+</blockquote>
+<script>
+function runtime(startTime){
+    var endTime = new Date(startTime);
+    var nowTime = new Date();
+    var t = nowTime.getTime() - endTime.getTime();
+
+    var d=Math.floor(t/1000/60/60/24);
+    var h=Math.floor(t/1000/60/60%24);
+    var m=Math.floor(t/1000/60%60);
+    var s=Math.floor(t/1000%60);
+    var month=Math.ceil(d/30);
+    var year=Math.ceil(d/365);
+
+    document.getElementById("t_d").innerHTML=d;
+    document.getElementById("t_h").innerHTML=h;
+    document.getElementById("t_m").innerHTML=m;
+    document.getElementById("t_s").innerHTML=s;
+    document.getElementById("t_month").innerHTML=month;
+    document.getElementById("t_year").innerHTML=year;
+}
+    setInterval("runtime('2017/12/8 20:25:19')",1000);
+</script>
   <div id="footer-info" class="inner">
       &copy; 2017-2018 <a href="http://weibo.com/975007237" target="_blank">George Lee</a><br>
       Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
