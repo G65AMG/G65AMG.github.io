@@ -350,6 +350,7 @@ function FindProxyForURL(url, host){
 "v.admaster.com.cn",
 "gw.im.weibo.cn",
 "gw1.im.weibo.cn",
+"storage.wax.weibo.com",
 "data.flurry.com",
 "aliqncdn.miaopai.com",
 "hwcdn.miaopai.com",
@@ -358,7 +359,6 @@ function FindProxyForURL(url, host){
 "aliunistore.weibo.cn",
 "unistore.weibo.cn",
 "upload.api.weibo.com",
-"us.grid.sinaedge.com",
 "imgaliyuncdn.miaopai.com",
 "tc.sinaimg.cn",
 
