@@ -350,17 +350,7 @@ function FindProxyForURL(url, host){
 "v.admaster.com.cn",
 "gw.im.weibo.cn",
 "gw1.im.weibo.cn",
-"storage.wax.weibo.com",
-"data.flurry.com",
-"aliqncdn.miaopai.com",
-"hwcdn.miaopai.com",
-"wapx.cmvideo.cn",
-"locallimit.us.sinaimg.cn",
-"aliunistore.weibo.cn",
-"unistore.weibo.cn",
-"upload.api.weibo.com",
-"imgaliyuncdn.miaopai.com",
-"tc.sinaimg.cn",
+
 
 
 //<taobao>
