@@ -331,7 +331,6 @@ function FindProxyForURL(url, host){
 //sina
 "sax.sina.cn",
 "sax.sina.com.cn",
-"api.weibo.cn",
 "api-ad.sensetime.com",
 "appmonitortest.biz.weibo.com",
 "vip.storage.weibo.com",
