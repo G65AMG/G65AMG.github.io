@@ -333,7 +333,6 @@ function FindProxyForURL(url, host){
 "sax.sina.com.cn",
 "api.weibo.cn",
 "api-ad.sensetime.com",
-"5301932815.222.173.79.2.00000.wifi.1087093010.weibo.66.dnssina.com",
 "appmonitortest.biz.weibo.com",
 "vip.storage.weibo.com",
 "mapi.weibo.com",
