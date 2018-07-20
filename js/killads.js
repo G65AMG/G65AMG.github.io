@@ -358,8 +358,15 @@ function FindProxyForURL(url, host){
 "upload.api.weibo.com",
 "us.grid.sinaedge.com",
 "tc.sinaimg.cn",
-
-
+//<douyin>
+"sf1-ttcdn-tos.pstatp.com",
+"sf3-ttcdn-tos.pstatp.com",
+"sf6-ttcdn-tos.pstatp.com",
+"sf3-dycdn-tos.pstatp.com",
+"p9.pstatp.com",
+"p98.pstatp.com",
+"pb1.pstatp.com",
+"gitee.com",
 //<taobao>
 "tanx.com",
 "alimama.com",
@@ -367,6 +374,7 @@ function FindProxyForURL(url, host){
 "adashbc.ut.taobao.com",
 "ip.taobao.com",
 "adashxgc.ut.taobao.com",
+"tunion-api.m.taobao.com",
 //<360>
 "lianmeng.360.cn",
 "s.360.cn",
