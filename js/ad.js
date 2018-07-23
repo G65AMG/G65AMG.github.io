@@ -194,7 +194,6 @@ function FindProxyForURL(url, host){
 "us.grid.sinaedge.com",
 "kln.grid.sinaedge.com",
 "qcloud.stage.tcdnvod.com",
-"api.weibo.cn",
 "tvaweibo.gslb.sinaedge.com",
 //<douyin>
 "sf1-ttcdn-tos.pstatp.com",
