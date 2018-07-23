@@ -16,7 +16,7 @@ var config = {
 // hosts
 var hostsList = [
 	{domain:'localhost', ip:'127.0.0.1:80'},
-	{domain:'localhost.dev'}
+	{domain:'localhost.dev'},
 	{domain:'project.dev',ip:'192.168.1.138'}
 ];
 
