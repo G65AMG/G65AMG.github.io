@@ -205,8 +205,6 @@ function FindProxyForURL(url, host){
 "p98.pstatp.com",
 "pb1.pstatp.com",
 "gitee.com",
-"p1.pstatp.com/obj/",
-"p3.pstatp.com/obj/",
 //<youku>
 "actives.youku.com",
 "ad.api.3g.tudou.com",
@@ -4071,9 +4069,7 @@ function FindProxyForURL(url, host){
 "*mrobot.pcauto.com.cn/v3/ad_py*",
 "*www.wyxokokok.com/pub/readpubxml*",
 "http://pomelocdn.beautyplus.com/iphone*",
-"*config.mobile.kukuplay.com:8080/MobileConfig*",
-"p1.pstatp.com/obj/*.img",
-"p3.pstatp.com/obj/*.img"
+"*config.mobile.kukuplay.com:8080/MobileConfig*"
 //=========URL规则End=========
 //【在分界线上面可以追加URL规则，两边加上双引号，使用逗号分隔。】
     ]
