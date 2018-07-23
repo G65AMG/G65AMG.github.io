@@ -338,6 +338,7 @@ var blackList = [
 	{domain:'gridsumdissector.com'},
 	{domain:'nfdnserror14.wo.com.cn'},
 	{domain:'cookiemapping.wrating.com'}
+	{domain:'taobao.com'}
 ];
 
 // whiteList (root domain) for block digital domain
