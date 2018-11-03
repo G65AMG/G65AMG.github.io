@@ -1,15 +1,13 @@
 var data = [
-	{name:"默认解析",url:"http://jiexi.92fz.cn/player/vip.php?url="},
-	{name:"通用解析1",url:"http://jx.aeidu.cn/index.php?url="},
-	{name:"通用解析2",url:"http://vip.thxcw.com/api.php?url="},
-	{name:"通用解析3",url:"http://http://yun.baiyug.cn/vip/?url="},
-	{name:"通用解析4",url:"http://www.662820.com/xnflv/index.php?url="},
-	{name:"通用解析5",url:"http://api.91exp.com/svip/?url="},
-	{name:"通用解析6",url:"http://vip.thxcw.com/index.php?url="},
-	{name:"腾讯视频",url:"http://www.82190555.com/index/qqvod.php?url="},
-	{name:"爱奇艺①",url:"http://api.pucms.com/?url="},
-	{name:"爱奇艺②",url:"http://api.baiyug.cn/vip/index.php?url="},
-	{name:"爱奇艺③",url:"https://api.flvsp.com/?url="},
+	{name:"默认解析",url:"http://api.pucms.com/?url="},
+	{name:"VIP看看",url:"http://q.z.vip.totv.72du.com/?url="},
+	{name:"musoucat",url:"https://jx.618g.com/?url="},
+	{name:"最领先",url:"http://api.zuilingxian.com/jiexi.php?url="},
+	{name:"云解析",url:"http://jiexi.92fz.cn/player/vip.php?url="},
+	{name:"百域阁①",url:"http://api.baiyug.cn/vip/index.php?url="},
+	{name:"百域阁②",url:"http://http://yun.baiyug.cn/vip/?url="},
+	{name:"无名小站①",url:"http://www.85105052.com/admin.php?url="},
+	{name:"无名小站②",url:"http://www.82190555.com/index/qqvod.php?url="},
 	];
 for (var i in  data)
 {
