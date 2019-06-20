@@ -2,10 +2,6 @@ var data = [
 	{name:"默认解析",url:"http://api.pucms.com/?url="},
 	{name:"VIP看看",url:"http://q.z.vip.totv.72du.com/?url="},
 	{name:"musoucat",url:"https://jx.618g.com/?url="},
-	{name:"最领先",url:"http://api.zuilingxian.com/jiexi.php?url="},
-	{name:"云解析",url:"http://jiexi.92fz.cn/player/vip.php?url="},
-	{name:"百域阁①",url:"http://api.baiyug.cn/vip/index.php?url="},
-	{name:"百域阁②",url:"http://http://yun.baiyug.cn/vip/?url="},
 	{name:"无名小站①",url:"http://www.85105052.com/admin.php?url="},
 	{name:"无名小站②",url:"http://www.82190555.com/index/qqvod.php?url="},
 	];
